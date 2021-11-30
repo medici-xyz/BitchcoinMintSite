@@ -18,11 +18,11 @@ const useStyles = makeStyles(() => ({
 		boxSizing: 'border-box',
 	},
 	image: {
-		height: 'calc(100% - 60px)',
+		height: 'calc(100% - 90px)',
 		maxWidth: '100%',
 	},
 	button: {
-		marginBottom: 10,
+		marginBottom: 40,
 	},
 	footer: {
 		position: 'absolute',
