@@ -17,6 +17,7 @@ const useStyles = makeStyles(() => ({
 		position: 'absolute',
 		left: '50%',
 		transform: 'translateX(-50%)',
+		whiteSpace: 'nowrap',
 	},
 	address: {
 		display: 'flex',
