@@ -18,8 +18,10 @@ const useStyles = makeStyles(() => ({
 		boxSizing: 'border-box',
 	},
 	image: {
-		height: 'calc(100% - 90px)',
 		maxWidth: '100%',
+		maxHeight: 'calc(100% - 90px)',
+		width: 'auto',
+		height: 'auto',
 	},
 	button: {
 		marginBottom: 40,
